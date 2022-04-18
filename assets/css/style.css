@@ -19,9 +19,8 @@ body {
     background-color: royalblue;
 }
 
-/*
 body {
     background-image: url("../img/amidst_the_books_and_ruins.jpg");
     background-repeat: no-repeat;
-    background-size: inherit;
+    background-position: center;
 }
