@@ -15,9 +15,8 @@ body {
     background-color: red;
 }
 
-.navbar-menu div {
-    background-color: royalblue !important;
-    size: 2rem;
+.navbar-menu {
+    background-color: royalblue;
 }
 
 /*
