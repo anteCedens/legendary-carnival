@@ -15,6 +15,11 @@ body {
     background-color: red;
 }
 
+.navbar-menu div {
+    background-color: royalblue !important;
+    size: 2rem;
+}
+
 /*
 body {
     background-image: url("../img/amidst_the_books_and_ruins.jpg");
